@@ -1,3 +1,7 @@
 # ignore unnecessary files or folders 
 
 *.js
+
+.vscode/
+
+*.pdf
